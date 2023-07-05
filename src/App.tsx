@@ -1,4 +1,4 @@
-import QwertyInput from './components/QwertyInput';
+import QwertyInput from "./components/QwertyInput";
 import UncontrolledInput from "./components/UncontrolledInput";
 
 function App(): JSX.Element {
